@@ -1,6 +1,10 @@
-# NieR Freecam
+# NieR:Automata Freecam
 
-NieR:Automata freecam for the new patch. (2021.07)
+NieR:Automata Freecam for the latest patch. (2021.07)
+
+![](https://raw.githubusercontent.com/magicwenli/NieR-Freecam/master/assets/20220105023201_1.jpg)
+![](https://raw.githubusercontent.com/magicwenli/NieR-Freecam/master/assets/20220105023043_1.jpg)
+
 
 > if you want freecam for the new patch (discovered by Havoc the LodMod creator)
 > 
@@ -18,6 +22,8 @@ NieR:Automata freecam for the new patch. (2021.07)
 
 ## Usage
 
+Download [release](https://github.com/magicwenli/NieR-Freecam/releases/tag/A2)
+
 - Ctrl+F - Toggle freecam
   - Left stick - Zoom in and out
   - Right stick - Move camera position
@@ -26,7 +32,7 @@ NieR:Automata freecam for the new patch. (2021.07)
 
 - Ctrl+T - Toggle time stop
 
-## For non-controller gamer
+## For gamers who do not use controller
 
 Camera posture adjustment does not support a keyboard. you may need a virtual controller and mapping joysticks to keyboard.
 
@@ -34,7 +40,7 @@ Download and install [Virtual Controller](https://sourceforge.net/projects/vjoy-
 
 Add an virtual IO device(vXbox), reboot.
 
-Load the configuration file, and run.
+Load the [configuration file](https://github.com/magicwenli/NieR-Freecam/blob/master/Virtual%20Controller/VC_NieR_Conf.vcd), and run.
 
 ### Key mapping
 
